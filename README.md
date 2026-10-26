@@ -24,19 +24,19 @@
 
 <div align="center">
 
-<!-- Replace O_TEU_USERNAME and the repo names once you have repositories -->
-<a href="https://github.com/O_TEU_USERNAME/PROJETO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=O_TEU_USERNAME&repo=PROJETO_1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<!-- Replace Trick230 and the repo names once you have repositories -->
+<a href="https://github.com/Trick230/PROJETO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=PROJETO_1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
-<a href="https://github.com/O_TEU_USERNAME/PROJETO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=O_TEU_USERNAME&repo=PROJETO_2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Trick230/PROJETO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=PROJETO_2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/O_TEU_USERNAME/PROJETO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=O_TEU_USERNAME&repo=PROJETO_3&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Trick230/PROJETO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=PROJETO_3&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
-<a href="https://github.com/O_TEU_USERNAME/PROJETO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=O_TEU_USERNAME&repo=PROJETO_4&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Trick230/PROJETO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=PROJETO_4&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O_TEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="160" src="https://streak-stats.demolab.com?user=O_TEU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trick230&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="160" src="https://streak-stats.demolab.com?user=Trick230&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
