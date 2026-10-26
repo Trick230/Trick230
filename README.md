@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Efeito de digitação no terminal (mais rápido, digita apenas uma vez e para) -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=56&duration=800&color=f5f5f5&center=true&vCenter=true&width=800&height=140&lines=%3E_Trick&repeat=false" alt="Trick" />
 
 Software developer | Games & 3D
@@ -29,19 +28,6 @@ Software developer | Games & 3D
 <br>
 
 ## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Trick230/DualizeRecomp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=DualizeRecomp&hide_border=true&bg_color=0d1117&title_color=2f6bff&icon_color=2f6bff&text_color=c9d1d9&v=2" />
-</a>
-<a href="https://github.com/Trick230/Cryoni">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=Cryoni&hide_border=true&bg_color=0d1117&title_color=2f6bff&icon_color=2f6bff&text_color=c9d1d9&v=2" />
-</a>
-
-</div>
-
-<br>
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
