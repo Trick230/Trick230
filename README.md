@@ -37,8 +37,8 @@
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | _one-line description_ | `Python` | 🟢 Active |
-| [**Cryoni**](https://github.com/Trick230/Cryoni) | _one-line description_ | `JavaScript` | 🟡 On hold |
+| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | _one-line description_ | `C++` | 🟢 Active |
+| [**Cryoni**](https://github.com/Trick230/Cryoni) | _one-line description_ | `HTML` | 🟡 On hold |
 
 <br>
 
