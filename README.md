@@ -1,11 +1,33 @@
-<img src="banner.svg" width="100%" alt="Trick, software developer, games and 3D" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f7f5ef,100:dce8ff&height=140&section=header&text=Trick&fontSize=56&fontColor=1f5cff&fontAlignY=45" width="100%"/>
+
+Software developer · Games & 3D
+
+</div>
 
 <br>
 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="stack.svg" width="800" alt="Languages and tools" />
+
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=A179DC" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE" />
+<img src="https://img.shields.io/badge/Shell-0d1117?style=for-the-badge&logo=gnubash&logoColor=89E051" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=F5792A" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/IntelliJ-0d1117?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/CLion-0d1117?style=for-the-badge&logo=clion&logoColor=22D88F" />
+
 </div>
 
 <br>
