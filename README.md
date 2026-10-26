@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Trick&fontSize=56&fontColor=e0e0ff&animation=fadeIn&fontAlignY=45" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Software+developer;Games+%26+3D+tinkerer;Building+things+I+find+interesting" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f7f5ef,100:dce8ff&height=140&section=header&text=Trick&fontSize=54&fontColor=1f5cff&fontAlignY=42&desc=Software%20developer%20%C2%B7%20Games%20%26%203D&descSize=16&descColor=4a6fb5&descAlignY=68" width="100%"/>
 
 </div>
 
@@ -10,13 +8,13 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
+  🟤 Java &nbsp;·&nbsp; 🔴 C++ &nbsp;·&nbsp; 🟡 JavaScript &nbsp;·&nbsp; 🟢 C# &nbsp;·&nbsp; 🔵 Python &nbsp;·&nbsp; 🟢 Shell
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,cs,py,bash&theme=dark" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=unity,blender,linux,git,idea,clion&theme=dark" />
-
-</div>
+<p align="center">
+  <code>Unity</code> <code>Blender</code> <code>Linux</code> <code>Git</code> <code>IntelliJ IDEA</code> <code>CLion</code>
+</p>
 
 <br>
 
@@ -25,10 +23,10 @@
 <div align="center">
 
 <a href="https://github.com/Trick230/DualizeRecomp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=DualizeRecomp&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=DualizeRecomp&hide_border=true&bg_color=0d1117&title_color=2f6bff&icon_color=2f6bff&text_color=c9d1d9&v=2" />
 </a>
 <a href="https://github.com/Trick230/Cryoni">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=Cryoni&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trick230&repo=Cryoni&hide_border=true&bg_color=0d1117&title_color=2f6bff&icon_color=2f6bff&text_color=c9d1d9&v=2" />
 </a>
 
 </div>
@@ -44,12 +42,8 @@
 
 ## 📫 Get in Touch
 
-<div align="center">
-
-<a href="mailto:O_TEU_EMAIL"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=a78bfa" /></a>
-<a href="https://linkedin.com/in/O_TEU_PERFIL"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=a78bfa" /></a>
-<a href="https://discord.com/users/O_TEU_ID"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=a78bfa" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=footer" width="100%"/>
+<p align="center">
+  <a href="mailto:O_TEU_EMAIL">Email</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/O_TEU_PERFIL">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://discord.com/users/O_TEU_ID">Discord</a>
+</p>
