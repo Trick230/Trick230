@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f7f5ef,100:dce8ff&height=140&section=header&text=Trick&fontSize=56&fontColor=1f5cff&fontAlignY=45" width="100%"/>
+<!-- Fundo escuro sem flashbang, texto branco leitoso e prefixo >_ de terminal -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1f242c&height=140&section=header&text=%3E_Trick&fontSize=56&fontColor=f5f5f5&fontAlignY=45" width="100%"/>
 
 Software developer · Games & 3D
 
@@ -12,21 +13,22 @@ Software developer · Games & 3D
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=A179DC" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE" />
-<img src="https://img.shields.io/badge/Shell-0d1117?style=for-the-badge&logo=gnubash&logoColor=89E051" />
+<!-- Badges com as cores das linguagens no fundo -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=F5792A" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/IntelliJ-0d1117?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/CLion-0d1117?style=for-the-badge&logo=clion&logoColor=22D88F" />
+<img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
 
 </div>
 
