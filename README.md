@@ -31,6 +31,6 @@ Software developer | Games & 3D
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | Unofficial native PC port of NiGHTS: Journey of Dreams | `C++` `CMake` `Python` | Active |
-| [**MKVMediaToolkit**](https://github.com/Trick230/MKVMediaToolkit) | An AIO toolkit for MKV media files | `C++` `CMake` | Active |
-| [**Cryoni**](https://github.com/Trick230/Cryoni) | A movie and TV series website | `HTML` `JavaScript` | On hold |
+| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | Unofficial native PC port of NiGHTS: Journey of Dreams | <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=cplusplus" /> <img src="https://img.shields.io/badge/CMake-2b2b2b?style=flat-square&logo=cmake" /> <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" /> | Active |
+| [**MKVMediaToolkit**](https://github.com/Trick230/MKVMediaToolkit) | An AIO toolkit for MKV media files | <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=cplusplus" /> <img src="https://img.shields.io/badge/CMake-2b2b2b?style=flat-square&logo=cmake" /> | Active |
+| [**Cryoni**](https://github.com/Trick230/Cryoni) | A movie and TV series website | <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript" /> | On hold |
