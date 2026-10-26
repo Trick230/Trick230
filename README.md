@@ -38,7 +38,7 @@
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | _one-line description_ | `C++` | 🟢 Active |
-| [**Cryoni**](https://github.com/Trick230/Cryoni) | _one-line description_ | `HTML` | 🟡 On hold |
+| [**Cryoni**](https://github.com/Trick230/Cryoni) | A movie and TV series website | `HTML` `JavaScript` | 🟡 On hold |
 
 <br>
 
