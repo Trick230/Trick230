@@ -37,7 +37,7 @@
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | _one-line description_ | `C++` | 🟢 Active |
+| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | Unofficial native PC port of NiGHTS: Journey of Dreams | `C++` `CMake` `Python` | 🟢 Active |
 | [**Cryoni**](https://github.com/Trick230/Cryoni) | A movie and TV series website | `HTML` `JavaScript` | 🟡 On hold |
 
 <br>
