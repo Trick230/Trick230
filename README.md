@@ -1,20 +1,12 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f7f5ef,100:dce8ff&height=140&section=header&text=Trick&fontSize=54&fontColor=1f5cff&fontAlignY=42&desc=Software%20developer%20%C2%B7%20Games%20%26%203D&descSize=16&descColor=4a6fb5&descAlignY=68" width="100%"/>
-
-</div>
+<img src="banner.svg" width="100%" alt="Trick, software developer, games and 3D" />
 
 <br>
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  🟤 Java &nbsp;·&nbsp; 🔴 C++ &nbsp;·&nbsp; 🟡 JavaScript &nbsp;·&nbsp; 🟢 C# &nbsp;·&nbsp; 🔵 Python &nbsp;·&nbsp; 🟢 Shell
-</p>
-
-<p align="center">
-  <code>Unity</code> <code>Blender</code> <code>Linux</code> <code>Git</code> <code>IntelliJ IDEA</code> <code>CLion</code>
-</p>
+<div align="center">
+  <img src="stack.svg" width="800" alt="Languages and tools" />
+</div>
 
 <br>
 
