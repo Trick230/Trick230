@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Fundo escuro sem flashbang, texto branco leitoso e prefixo >_ de terminal -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1f242c&height=140&section=header&text=%3E_Trick&fontSize=56&fontColor=f5f5f5&fontAlignY=45" width="100%"/>
+<!-- Efeito de digitação no terminal com fonte de IDE (JetBrains Mono) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=56&pause=1000&color=f5f5f5&center=true&vCenter=true&width=800&height=140&lines=%3E_Trick" alt="Trick" />
 
 Software developer · Games & 3D
 
