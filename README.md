@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=56&duration=800&pause=99999999&color=f5f5f5&center=true&vCenter=true&width=800&height=140&lines=%3E_Trick" alt="Trick" />
 
-Software developer | Games & 3D
+Software developer | Tools & Reverse Engineering
 
 </div>
 
