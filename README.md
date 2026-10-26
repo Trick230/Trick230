@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Efeito de digitação no terminal com fonte de IDE (JetBrains Mono) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=56&pause=1000&color=f5f5f5&center=true&vCenter=true&width=800&height=140&lines=%3E_Trick" alt="Trick" />
+<!-- Efeito de digitação no terminal (digita apenas uma vez e para) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=56&color=f5f5f5&center=true&vCenter=true&width=800&height=140&lines=%3E_Trick&repeat=false" alt="Trick" />
 
-Software developer · Games & 3D
+Software developer | Games & 3D
 
 </div>
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Software developer · Games & 3D
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -47,15 +47,15 @@ Software developer · Games & 3D
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | Unofficial native PC port of NiGHTS: Journey of Dreams | `C++` `CMake` `Python` | 🟢 Active |
-| [**Cryoni**](https://github.com/Trick230/Cryoni) | A movie and TV series website | `HTML` `JavaScript` | 🟡 On hold |
+| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | Unofficial native PC port of NiGHTS: Journey of Dreams | `C++` `CMake` `Python` | Active |
+| [**Cryoni**](https://github.com/Trick230/Cryoni) | A movie and TV series website | `HTML` `JavaScript` | On hold |
 
 <br>
 
-## 📫 Get in Touch
+## Get in Touch
 
 <p align="center">
-  <a href="mailto:O_TEU_EMAIL">Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/O_TEU_PERFIL">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:O_TEU_EMAIL">Email</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/O_TEU_PERFIL">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://discord.com/users/O_TEU_ID">Discord</a>
 </p>
