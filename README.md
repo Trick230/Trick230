@@ -31,5 +31,5 @@ Software developer | Tools & Reverse Engineering
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | Unofficial native PC port of NiGHTS: Journey of Dreams | <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=cplusplus" /> <img src="https://img.shields.io/badge/CMake-2b2b2b?style=flat-square&logo=cmake" /> <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" /> | Active |
+| [**DualizeRecomp**](https://github.com/Trick230/DualizeRecomp) | Native static recompilation of NiGHTS: Journey of Dreams | <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=cplusplus" /> <img src="https://img.shields.io/badge/CMake-2b2b2b?style=flat-square&logo=cmake" /> <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" /> | Active |
 | [**MKVMediaToolkit**](https://github.com/Trick230/MKVMediaToolkit) | An AIO toolkit for MKV files | <img src="https://img.shields.io/badge/C%2B%2B-2b2b2b?style=flat-square&logo=cplusplus" /> <img src="https://img.shields.io/badge/CMake-2b2b2b?style=flat-square&logo=cmake" /> | On hold |
